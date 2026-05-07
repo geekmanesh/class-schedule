@@ -37,7 +37,7 @@ A sophisticated Python automation tool that extracts class schedules from Shiraz
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Dimah-code/class-schedule.git
+   git clone https://github.com/geekmanesh/class-schedule.git
    cd class-schedule
    ```
 
@@ -261,8 +261,8 @@ We welcome contributions!
 
 ## 👨‍💻 Author
 
-**Dimah**  
-- GitHub: [@Dimah](https://github.com/Dimah-code)
+**Geekmaneh**  
+- GitHub: [@Geekmanesh](https://github.com/geekmanesh)
 
 ## 📄 <a id="license"></a>License
 
